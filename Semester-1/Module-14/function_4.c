@@ -1,20 +1,16 @@
-// return + parameter
-
+// np return + no parameter 
 #include <stdio.h>
 
-int sum()
+void sum(void)
 {
     int a, b;
     scanf("%d %d", &a, &b);
     int s = a + b;
-    //
-    return s;
+    printf("%d", s);
 }
 int main()
 {
+    sum();
 
-    int result = sum();
-    printf("%d", result);
-  
     return 0;
 }
