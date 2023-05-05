@@ -1,0 +1,3 @@
+x er value - 100.50
+ptr er value - 100.50
+ptr2 er value - 100.50
