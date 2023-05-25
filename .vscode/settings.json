@@ -1,6 +1,7 @@
 {
-    "files.associations": {
-        "stdio.h": "c",
-        "print_5_to_1_2.C": "cpp"
-    }
+  "files.associations": {
+    "stdio.h": "c",
+    "print_5_to_1_2.C": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
